@@ -1,0 +1,9 @@
+{
+    "name": "DragonBox.GoogleSignIn.Editor",
+    "references": [
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

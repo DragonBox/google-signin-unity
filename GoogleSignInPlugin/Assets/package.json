@@ -1,0 +1,14 @@
+{
+    "name": "com.dragonbox.google.google-signin-plugin",
+    "displayName": "Google Sign In Plugin for Unity (DragonBox version)",
+    "author": { "name": "Google", "url": "https://google.com/" },
+    "version": "1.0.4-exp.1",
+    "unity": "2017.4",
+    "changelogUrl": "https://github.com/DragonBox/google-signin-unity/blob/master/CHANGELOG",
+    "documentationUrl": "https://github.com/DragonBox/google-signin-unity/",
+    "description": "DragonBox patched version with UPM support of Google signin-plugin",
+    "keywords": [ "OAuth" ],
+    "license": "Apache 2.0",
+    "dependencies": {
+    }
+}
